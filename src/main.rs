@@ -509,11 +509,11 @@ fn main() {
                 draw_text(&mut d, "Source code is public:", 20, 312, 350, None);
                 draw_text(
                     &mut d,
-                    "https://github.com/tazz4843/monster-storybook",
+                    "https://github.com/tazz4843/monster",
                     20,
                     300,
                     375,
-                    Some("https://github.com/tazz4843/monster-storybook"),
+                    Some("https://github.com/tazz4843/monster"),
                 );
                 draw_text(&mut d, "Press ESC to exit", 20, 312, 600, None);
             }
